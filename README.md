@@ -1,4 +1,4 @@
-# MQTT Toolbox 🛠️
+# MQTT Toolbox 🛠️ => svi šalju na 1 mjesto, ali slušaju samo ono ča ih zanima
 
 A small interactive MQTT playground for learning and experimenting with the MQTT protocol.
 
